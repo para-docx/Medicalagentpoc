@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Dr. Emily Smith",
+        "specialization": "Cardiologist",
+        "availability": [
+            {
+                "day": "Monday",
+                "start": "09:00",
+                "end": "17:00",
+                "max_patients": 10,
+                "current_appointments": 3
+            },
+            {
+                "day": "Tuesday",
+                "start": "10:00",
+                "end": "18:00",
+                "max_patients": 8,
+                "current_appointments": 2
+            }
+        ]
+    },
+    {
+        "name": "Dr. John Doe",
+        "specialization": "Neurologist",
+        "availability": [
+            {
+                "day": "Wednesday",
+                "start": "08:00",
+                "end": "16:00",
+                "max_patients": 12,
+                "current_appointments": 5
+            },
+            {
+                "day": "Friday",
+                "start": "09:00",
+                "end": "15:00",
+                "max_patients": 10,
+                "current_appointments": 4
+            }
+        ]
+    },
+    {
+        "name": "Dr. Sophia Johnson",
+        "specialization": "Dermatologist",
+        "availability": [
+            {
+                "day": "Tuesday",
+                "start": "10:00",
+                "end": "17:00",
+                "max_patients": 8,
+                "current_appointments": 6
+            },
+            {
+                "day": "Thursday",
+                "start": "11:00",
+                "end": "18:00",
+                "max_patients": 7,
+                "current_appointments": 3
+            }
+        ]
+    },
+    {
+        "name": "Dr. William Brown",
+        "specialization": "Orthopedic Surgeon",
+        "availability": [
+            {
+                "day": "Monday",
+                "start": "07:00",
+                "end": "14:00",
+                "max_patients": 15,
+                "current_appointments": 10
+            },
+            {
+                "day": "Thursday",
+                "start": "09:00",
+                "end": "17:00",
+                "max_patients": 12,
+                "current_appointments": 8
+            }
+        ]
+    },
+    {
+        "name": "Dr. Olivia Martinez",
+        "specialization": "Pediatrician",
+        "availability": [
+            {
+                "day": "Wednesday",
+                "start": "08:30",
+                "end": "16:30",
+                "max_patients": 9,
+                "current_appointments": 5
+            },
+            {
+                "day": "Friday",
+                "start": "10:00",
+                "end": "18:00",
+                "max_patients": 10,
+                "current_appointments": 7
+            }
+        ]
+    },
+    {
+        "name": "Dr. Michael Wilson",
+        "specialization": "Endocrinologist",
+        "availability": [
+            {
+                "day": "Monday",
+                "start": "09:00",
+                "end": "15:00",
+                "max_patients": 8,
+                "current_appointments": 4
+            },
+            {
+                "day": "Thursday",
+                "start": "11:00",
+                "end": "17:00",
+                "max_patients": 6,
+                "current_appointments": 2
+            }
+        ]
+    },
+    {
+        "name": "Dr. Emma Davis",
+        "specialization": "Ophthalmologist",
+        "availability": [
+            {
+                "day": "Tuesday",
+                "start": "09:30",
+                "end": "16:30",
+                "max_patients": 7,
+                "current_appointments": 3
+            },
+            {
+                "day": "Friday",
+                "start": "10:00",
+                "end": "18:00",
+                "max_patients": 9,
+                "current_appointments": 6
+            }
+        ]
+    },
+    {
+        "name": "Dr. Daniel Thompson",
+        "specialization": "Psychiatrist",
+        "availability": [
+            {
+                "day": "Monday",
+                "start": "10:00",
+                "end": "18:00",
+                "max_patients": 6,
+                "current_appointments": 2
+            },
+            {
+                "day": "Wednesday",
+                "start": "09:00",
+                "end": "17:00",
+                "max_patients": 10,
+                "current_appointments": 7
+            }
+        ]
+    }
+]
