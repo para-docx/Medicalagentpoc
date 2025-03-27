@@ -66,7 +66,7 @@ if "available_doctors" not in st.session_state:
 def get_llm_response(prompt):
     try:
         response = groq_client.chat.completions.create(
-            model="deepseek-r1-distill-llama-70b",
+            model="gemma2-9b-it",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.3,
             max_tokens=300,
