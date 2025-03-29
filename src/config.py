@@ -5,7 +5,7 @@ import os
 load_dotenv()
 
 # MongoDB Configuration
-MONGODB_URI = "mongodb+srv://docxpara12:XOP93MPOOTcipQwe@cluster0.434x6.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+MONGODB_URI = os.getenv("MONGO_DB_URI")
 DB_NAME = "hospital_system"
 
 # Groq Configuration
